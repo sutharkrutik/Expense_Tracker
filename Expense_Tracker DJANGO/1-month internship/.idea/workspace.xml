@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da130f10-73df-4e9b-be9b-fb65294ba037" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/expense_edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/income_edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/manage_expense.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/manage_income.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internship/income/user_app/static/images/finance.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internship/income/user_app/templates/update_profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/income/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/income/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/income/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/income/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/contactus.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/contactus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/expense.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/expense.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/income.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/income.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/static/css/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/static/css/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/contactus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/expense.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/expense.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/expense_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/expense_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/income.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/income.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/income_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/income_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/manage_expense.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/manage_expense.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/manage_income.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/manage_income.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internship/income/user_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/internship/income/user_app/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/internship" />
+  </component>
+  <component name="ProjectId" id="2xRaDIO09KHET5Op80dasHmN9sP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Expense_Tracker DJANGO/1-month internship/internship/income/user_app/static/images"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Expense_Tracker DJANGO\1-month internship\internship\income\user_app\static\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da130f10-73df-4e9b-be9b-fb65294ba037" name="Changes" comment="" />
+      <created>1747903218550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747903218550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="cd68c15b-5c6d-4ce2-9d51-1e711ce93929" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="cd68c15b-5c6d-4ce2-9d51-1e711ce93929">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="expense_tracker" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
